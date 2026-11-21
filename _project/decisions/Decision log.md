@@ -1,8 +1,8 @@
 ---
-title: Decision Log
+title: Decision log
 updated: 2026-11-20
 ---
-# Decision Log
+# Decision log
 
 Append new decisions at the bottom; never delete. To change a decision, add a new entry that supersedes it and mark the old one `superseded by D-0xx`.
 **Source** = who proposed it (Josh / Claude / ChatGPT). Everything here is agreed by Josh unless marked pending.
@@ -31,9 +31,10 @@ Append new decisions at the bottom; never delete. To change a decision, add a ne
 | D-018 | 2026-11-20 | Local git only (Option A), no GitHub. Claude works through the connected folder while the Mac is awake | Keep it simple; no external account | Josh |
 | D-019 | 2026-11-20 | Project memory lives in `_project/` in the vault, mirrored to a "Project Context" doc in the claude.ai Project | Context must outlive individual chats | Josh, Claude |
 | D-020 | 2026-11-20 | Website (Quartz vs. custom) decided after the pilot | Test the reader flow first | Josh |
+| D-021 | 2026-11-20 | `_project/` organized as folders + an index (`00 Index`, `Current`, vision/, schema/, decisions/, conventions/, sessions/) instead of 4 flat files; one decision log, with separate notes only for big decisions | Easier to navigate; each note has one job; volatile status separated from stable docs | Josh, Claude |
 
 ## Pending
 
 | ID | Opened | Question | Current proposal | Waiting on |
 |---|---|---|---|---|
-| P-001 | 2026-11-20 | Citation format: how to attach edition + passage ID + per-citation quote | Body `## Cites` lines (see [[Schema]] §7) instead of nested frontmatter objects | ChatGPT's response, then Josh |
+| P-001 | 2026-11-20 | Citation format: how to attach edition + passage ID + per-citation quote | Body `## Cites` lines instead of nested frontmatter objects (see [[Citations]]) | ChatGPT's response, then Josh |
