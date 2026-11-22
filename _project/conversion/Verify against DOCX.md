@@ -85,3 +85,8 @@ Items to check when the manuscript .docx arrives. Pasted text may have lost form
 - [ ] **Unclosed quotation mark:** PFP-00323 ends with “Death has been swallowed up in victory. with no closing ”. Kept as pasted; check the original.
 - [ ] **Contrast pair:** "Paul (1 Cor 15, 1 Thess 4): …" and "Revelation (Revelation 20): …" (PFP-00331, PFP-00332) are kept as separate paragraphs. They may be a table or list in the original.
 - [ ] **Numbered headings** ("1. Recap…", "3.1 …"): converted as headings. Plain text starting with "1." would otherwise turn into a list in Markdown.
+
+## Chapter 12 (`12 Chapter 12`, PFP-00336 to PFP-00347)
+- [ ] **Intro note** (PFP-00336): probably italic or set apart.
+- [ ] **Contrast pair:** "Established by God…" and "Teachings advanced by Paul…" (PFP-00343, PFP-00344) follow "A clear distinction emerges here:" and may be a list, or have bold labels, in the original.
+- [ ] **Closing "Note:"** (PFP-00347) may be a footnote or endnote.
