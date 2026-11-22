@@ -25,4 +25,4 @@ This vault (local git repo) is the source of truth. The "Project Context" doc in
 | `sessions/` | One dated note per working session: what we did and decided | Every session (new note) |
 
 ## Vault layout (outside `_project/`)
-`source/` manuscript .docx · `editions/` frozen editions · `passages/` verbatim book text · `claims/` · `arguments/` · `objections/` · `assets/` images. Details: [[Vault layout]].
+`source/` manuscript .docx · `editions/` frozen editions · `passages/ed1/` verbatim book text by edition · `_test/` labeled test fixtures · `claims/` · `arguments/` · `objections/` · `assets/` images. Details: [[Vault layout]].

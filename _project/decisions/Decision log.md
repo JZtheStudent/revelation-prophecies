@@ -1,6 +1,6 @@
 ---
 title: Decision log
-updated: 2026-11-20
+updated: 2026-11-22
 ---
 # Decision log
 
@@ -17,7 +17,7 @@ Append new decisions at the bottom; never delete. To change a decision, add a ne
 | D-004 | 2026-11-20 | Convert in reading order, in two passes: (1) passages + IDs, (2) claims/arguments/objections | Later arguments depend on earlier claims | Josh, Claude |
 | D-005 | 2026-11-20 | Opaque permanent passage IDs `PFP-00001` as Obsidian block IDs; never renumbered or reused | Identity must survive moves and edits | Josh |
 | D-006 | 2026-11-20 | Chapter/section/order derived from file + heading path + block order, not stored by hand | Hand-stored fields go stale; block IDs can't carry metadata | Claude; ChatGPT agreed |
-| D-007 | 2026-11-20 | Freeze ed1 (SHA-256 + git tag); citations default to ed1; revision rules for revised/split/merged passages | Preserve citations to original wording | Josh, Claude |
+| D-007 | 2026-11-20 | Freeze ed1 (SHA-256 + git tag); citations default to ed1; revision rules for revised/split/merged passages. *Storage of old wording superseded by D-023* | Preserve citations to original wording | Josh, Claude |
 | D-008 | 2026-11-20 | One paragraph = one passage, even with multiple claims; exact quotes pinpoint sentences | Keeps the original structure; quotes are verifiable | Josh |
 | D-009 | 2026-11-20 | Block types inferred from Markdown syntax; `[!scripture]` / `[!source]` callouts for quoted material; diagrams need a text description; footnotes move to `## Notes` | Distinguishes the author's words from quotations without extra fields | Claude |
 | D-010 | 2026-11-20 | Argument records are the single mechanism for inference, including one-premise cases; `inference: implies \| supports` | One place to maintain relations | Josh, Claude; ChatGPT agreed |
@@ -32,9 +32,13 @@ Append new decisions at the bottom; never delete. To change a decision, add a ne
 | D-019 | 2026-11-20 | Project memory lives in `_project/` in the vault, mirrored to a "Project Context" doc in the claude.ai Project | Context must outlive individual chats | Josh, Claude |
 | D-020 | 2026-11-20 | Website (Quartz vs. custom) decided after the pilot | Test the reader flow first | Josh |
 | D-021 | 2026-11-20 | `_project/` organized as folders + an index (`00 Index`, `Current`, vision/, schema/, decisions/, conventions/, sessions/) instead of 4 flat files; one decision log, with separate notes only for big decisions | Easier to navigate; each note has one job; volatile status separated from stable docs | Josh, Claude |
+| D-022 | 2026-11-22 | Citations live in the body under `## Cites`: one bullet per citation = vault-relative block wikilink + optional `@edN` (omitted = ed1) + optional quote after the first ` — `. Frontmatter stays flat. Edition + block ID identify the passage; the link must open that same passage. Malformed lines reported with path + line; quotes matched against plain text with whitespace normalized; one shared parser for validator and website export. Resolves P-001 | Clickable, backlinked, per-citation quotes; nested frontmatter breaks Obsidian | Claude proposed; Josh decided |
+| D-023 | 2026-11-22 | Each frozen edition has its own passage folder (`passages/ed1/`, `passages/ed2/`, ...); IDs unique within an edition, shared across editions for the same passage; earlier editions never edited. Supersedes the "old wording via git tag" part of D-007 | Every edition's wording stays openable and linkable in Obsidian | Josh |
+| D-024 | 2026-11-22 | Pilot citation tests: same passage ID in two editions with different wording; both links open the intended text; an `@ed2` citation deliberately pointed at the ed1 file must be caught; move a block and confirm the repaired link opens the correct edition. Then one complete reader path on real content before scaling | Prove the citation scheme end to end | Josh |
+| D-025 | 2026-11-22 | Test fixtures (e.g. the synthetic ed2) live only in `_test/`, mirroring the real layout; never in `passages/` | There is no real ed2; invented wording must never be mistakable for the author's | Claude |
 
 ## Pending
 
 | ID | Opened | Question | Current proposal | Waiting on |
 |---|---|---|---|---|
-| P-001 | 2026-11-20 | Citation format: how to attach edition + passage ID + per-citation quote | Body `## Cites` lines instead of nested frontmatter objects (see [[Citations]]) | ChatGPT's response, then Josh |
+| ~~P-001~~ | 2026-11-20 | ~~Citation format~~ | Resolved 2026-11-22 by D-022 | — |

@@ -7,5 +7,5 @@ updated: 2026-11-20
 - Passage text is verbatim from the frozen edition. Edit it only to fix an extraction error against the DOCX, and note the fix in the commit message.
 - Never renumber or reuse an ID.
 - Anything not stated in the book is marked `by: editor` (or `external`), so it's never attributed to the author.
-- Illustrative or placeholder content must be clearly labeled as such.
+- Illustrative or placeholder content must be clearly labeled as such. Test fixtures (e.g. a synthetic ed2 for citation tests) live only in `_test/`, never in `passages/`, so invented wording can never be mistaken for the author's.
 - An author's argument is never edited to fix it; repairs are separate editor records ([[Argument model]]).

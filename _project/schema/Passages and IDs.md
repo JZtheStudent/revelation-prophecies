@@ -1,13 +1,13 @@
 ---
 title: Passages and IDs
-updated: 2026-11-20
+updated: 2026-11-22
 ---
 # Passages and IDs
 
 ## IDs
 - Format `PFP-00001` (5 digits), written as an Obsidian block ID at the end of the block: `^PFP-00127`.
-- Opaque and permanent: **never renumbered, never reused.** Initial assignment follows reading order; later insertions take the next free number.
-- The bare ID (plus edition) is canonical. The file name inside a link (`[[01 Chapter 1#^PFP-00127]]`) is only for clickability; the [[Validator]] repairs it if a block moves between files.
+- Opaque and permanent: **never renumbered, never reused.** IDs are unique within an edition; the same ID in two edition folders means the same passage (possibly reworded). Initial assignment follows reading order; later insertions take the next free number.
+- Edition + ID is canonical. Links use vault-relative paths (`[[passages/ed1/01 Chapter 1#^PFP-00127]]`); the [[Validator]] repairs the path if a block moves between files. See [[Citations]].
 
 ## Location is derived, never stored by hand
 Display location = file + heading path + block order, computed by a script. Moving a passage = cut/paste the block with its `^ID`.
