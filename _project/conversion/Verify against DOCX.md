@@ -62,3 +62,8 @@ Items to check when the manuscript .docx arrives. Pasted text may have lost form
 - [ ] **Hyphen style differs:** this chapter uses ordinary hyphens ("man-made", "anti-Trinitarian"), while earlier chapters use unbreakable hyphens ("man‑made"). Probably a difference in how the chapters were produced. Kept as pasted; relevant to P-002.
 - [ ] **Era style differs:** "AD 493, 534 and 538" here vs. "CE" elsewhere. Kept as pasted.
 - [ ] **Possible italics:** transliterated *yalad* and *monogenes* (PFP-00264), and the Greek θεός (PFP-00265).
+
+## Chapter 8 (`08 Chapter 8`, PFP-00268 to PFP-00288)
+- [ ] **Multi-paragraph Scripture quotes:** Rev 8, 9, 11 and 15–16 are each quoted across 3 paragraphs. Each paragraph became its own `[!scripture]` callout with its own ID (12 callouts in total), following the one-paragraph-one-passage rule. Confirm the paragraph breaks match the original. On the site, consecutive callouts can be shown as one continuous quotation.
+- [ ] **Book title** *Perfectly Fulfilled Prophecy, the Destiny of Mankind* (PFP-00288) is probably italic.
+- [ ] **Arrow chain** "Seventh Seal → Trumpets 1–4 → …" (PFP-00286) may be a diagram or its own line in the original.
