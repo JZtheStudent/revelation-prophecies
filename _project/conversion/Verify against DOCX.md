@@ -67,3 +67,9 @@ Items to check when the manuscript .docx arrives. Pasted text may have lost form
 - [ ] **Multi-paragraph Scripture quotes:** Rev 8, 9, 11 and 15–16 are each quoted across 3 paragraphs. Each paragraph became its own `[!scripture]` callout with its own ID (12 callouts in total), following the one-paragraph-one-passage rule. Confirm the paragraph breaks match the original. On the site, consecutive callouts can be shown as one continuous quotation.
 - [ ] **Book title** *Perfectly Fulfilled Prophecy, the Destiny of Mankind* (PFP-00288) is probably italic.
 - [ ] **Arrow chain** "Seventh Seal → Trumpets 1–4 → …" (PFP-00286) may be a diagram or its own line in the original.
+
+## Chapter 9 (`09 Chapter 9`, PFP-00289 to PFP-00301)
+- [ ] **Intro note** (PFP-00289): probably italic or set apart.
+- [ ] **Three books-of-life categories** (PFP-00296 to PFP-00298) were kept as separate paragraphs so each can be cited. They may be a list in the original.
+- [ ] **Closing "Note:"** (PFP-00301) may be a footnote or endnote in the original. If so, move it under a `## Notes` heading, keeping its ID.
+- [ ] **Possible italics:** *apollymi*, *Book of Enoch*.
