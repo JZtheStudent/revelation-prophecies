@@ -29,6 +29,7 @@ participants: Josh, Claude
 - Chapter 3 → `passages/ed1/03 Chapter 3.md`, 15 blocks (6 scripture callouts + 9 paragraphs), PFP-00135 to PFP-00149 (provisional).
 - Chapter 4 → `passages/ed1/04 Chapter 4.md`, 54 blocks, PFP-00150 to PFP-00203 (provisional). Started [[Content notes]] for content observations.
 - Chapter 5 → `passages/ed1/05 Chapter 5.md`, 22 blocks, PFP-00204 to PFP-00225 (provisional).
+- Chapter 6 → `passages/ed1/06 Chapter 6.md`, 29 blocks, PFP-00226 to PFP-00254 (provisional).
 
 ## Next
 Josh links GitHub to Claude, pushes once, and adds the first chapters. See [[Current]].

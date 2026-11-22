@@ -51,3 +51,8 @@ Items to check when the manuscript .docx arrives. Pasted text may have lost form
 - [ ] **Possibly merged labels:** the three dimensions (PFP-00206 "Spiritual dimension:…", PFP-00208 "Political‑institutional dimension:…", PFP-00211 "Geographical dimension:…") each start with a label that's probably a sub-heading or bold.
 - [ ] **Embedded scripture quotes:** PFP-00215 (Rev 17:17) and PFP-00217 (Rev 17:16) run a label, a quoted verse and commentary together. In the original these are probably separate lines, possibly a block quote. PFP-00217 also contains a ①②③ breakdown that may be a list.
 - [ ] **Garment symbols:** PFP-00220 to PFP-00222 (Purple / Scarlet / Gold…) were kept as separate paragraphs. They may be a list with bold labels.
+
+## Chapter 6 (`06 Chapter 6`, PFP-00226 to PFP-00254)
+- [ ] **Intro note** (PFP-00226): probably italic or set apart in the original.
+- [ ] **Uneven labels in § IV:** "The ten Catholic horn nations" is merged into its paragraph (PFP-00247), while "All Protestant denominations and Protestant nations" stands alone, so I made it a sub-heading over its list. These are probably two parallel sub-headings (or bold labels) in the original.
+- [ ] **Possible bold lead-ins:** "Final Verdict:" (PFP-00240), "Prophetic positioning:", "Final Destiny:", and the list labels in § II.1 ("Authority structure:", "Ceremonial system:", …).
