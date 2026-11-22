@@ -34,6 +34,7 @@ participants: Josh, Claude
 - Chapter 8 → `passages/ed1/08 Chapter 8.md`, 21 blocks (12 scripture callouts + 9 paragraphs), PFP-00268 to PFP-00288 (provisional).
 - Chapter 9 → `passages/ed1/09 Chapter 9.md`, 13 paragraphs, PFP-00289 to PFP-00301 (provisional).
 - Chapter 10 → `passages/ed1/10 Chapter 10.md`, 12 paragraphs, PFP-00302 to PFP-00313 (provisional).
+- Chapter 11 → `passages/ed1/11 Chapter 11.md`, 22 blocks (3 scripture callouts), PFP-00314 to PFP-00335 (provisional).
 
 ## Next
 Josh links GitHub to Claude, pushes once, and adds the first chapters. See [[Current]].

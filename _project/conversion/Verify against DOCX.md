@@ -78,3 +78,10 @@ Items to check when the manuscript .docx arrives. Pasted text may have lost form
 - [ ] **Intro note** (PFP-00302): probably italic or set apart.
 - [ ] **Mid-chapter "Note:"** (PFP-00308, on ἔξω in Rev 22:15) may be a footnote in the original. If so, move it under a `## Notes` heading, keeping its ID.
 - [ ] **Possible italics:** *exō*.
+
+## Chapter 11 (`11 Chapter 11`, PFP-00314 to PFP-00335)
+- [ ] **Intro note** (PFP-00314): probably italic or set apart.
+- [ ] **Scripture callouts:** 1 Cor 15 (PFP-00322, PFP-00323) and 1 Thess 4 (PFP-00326) are quoted as separate blocks, so they're formatted as `[!scripture]` callouts. The Isaiah 11:6–9 quotation inside PFP-00316 is run into the paragraph. It may be a separate block quote in the original.
+- [ ] **Unclosed quotation mark:** PFP-00323 ends with “Death has been swallowed up in victory. with no closing ”. Kept as pasted; check the original.
+- [ ] **Contrast pair:** "Paul (1 Cor 15, 1 Thess 4): …" and "Revelation (Revelation 20): …" (PFP-00331, PFP-00332) are kept as separate paragraphs. They may be a table or list in the original.
+- [ ] **Numbered headings** ("1. Recap…", "3.1 …"): converted as headings. Plain text starting with "1." would otherwise turn into a list in Markdown.
