@@ -22,7 +22,7 @@ This vault (local git repo) is the source of truth. The "Project Context" doc in
 | `schema/` | How the book is modeled. Start at [[Schema overview]] | When we change the model |
 | `decisions/` | [[Decision log]] (all decisions, append-only) + long-form notes for big decisions | When we decide something |
 | `conventions/` | How we work. Start at [[Conventions overview]] | Rarely |
-| `conversion/` | [[Verify against DOCX]]: items to check once the manuscript file arrives | As chapters are converted |
+| `conversion/` | [[Verify against DOCX]] (formatting to check against the manuscript file) and [[Content notes]] (repetition and possible internal differences, for the author and v1) | As chapters are converted |
 | `sessions/` | One dated note per working session: what we did and decided | Every session (new note) |
 
 ## Vault layout (outside `_project/`)

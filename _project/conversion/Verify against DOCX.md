@@ -36,3 +36,12 @@ Items to check when the manuscript .docx arrives. Pasted text may have lost form
 - [ ] **Scripture callouts:** the six quoted passages of Revelation 6 (PFP-00135, 138, 140, 143, 146, 148) are formatted as `[!scripture]` callouts, the first chapter to quote Scripture as separate blocks. The reference is kept in the text itself (e.g. "Revelation 6:1–2: …"). **Which Bible translation is quoted?** Record it in each callout's header once known.
 - [ ] **No section headings in the paste.** The original may have subheadings per seal (e.g. "The First Seal"), or bold verse references.
 - [ ] **References:** the reference lists at the end of PFP-00142 and PFP-00145 (e.g. "McCormick (2018); Procopius…") may be footnotes or styled differently in the original. Book titles (*History of the Wars*, *The Fate of Rome*) are probably italic.
+
+## Chapter 4 (`04 Chapter 4`, PFP-00150 to PFP-00203)
+- [ ] **Heading levels:** I.–II. = sections; "1."–"8." = subsections; "(1)"–"(3)" plus "Primary Fulfilment" and "Secondary Candidate" = sub-subsections. Confirm against the original.
+- [ ] **Intro note** (PFP-00150): the parenthetical "(These are independent interpretive reflections…)" is probably italic or set apart in the original.
+- [ ] **Embedded footnote:** the persecution item in the list at PFP-00200 contains "Historical footnote: …" and "Doctrinal distinction: …" run into the text. These are probably a real footnote and/or separate paragraphs in the original.
+- [ ] **Possibly merged lines:** the head entries PFP-00155 to PFP-00159 and PFP-00166 to PFP-00167 (title + description run together). PFP-00159 ends with "in 538 CE:" and is followed by its list.
+- [ ] **List or paragraphs?** PFP-00162 to PFP-00164 (1798 wound / 538–1798 span / 42 months = 1260 years) were kept as separate paragraphs. The first ends with ";", so they may be one list in the original.
+- [ ] **Possible bold lead-ins:** "Core marker:", "Interpretive note:", "Summary:", "Core conclusion:", "Final conclusion:", "Title background:", "Key distinction of ownership:", "Scope note:".
+- [ ] **Latin:** *Vicarius Christi* and *Vicarius Filii Dei* (PFP-00197) and the *Donation of Constantine* (PFP-00195) are probably italic.
