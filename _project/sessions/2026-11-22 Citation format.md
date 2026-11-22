@@ -36,6 +36,7 @@ participants: Josh, Claude
 - Chapter 10 → `passages/ed1/10 Chapter 10.md`, 12 paragraphs, PFP-00302 to PFP-00313 (provisional).
 - Chapter 11 → `passages/ed1/11 Chapter 11.md`, 22 blocks (3 scripture callouts), PFP-00314 to PFP-00335 (provisional).
 - Chapter 12 → `passages/ed1/12 Chapter 12.md`, 12 paragraphs, PFP-00336 to PFP-00347 (provisional).
+- Chapter 13 → `passages/ed1/13 Chapter 13.md`, 35 blocks (8 lists), PFP-00348 to PFP-00382 (provisional).
 
 ## Next
 Josh links GitHub to Claude, pushes once, and adds the first chapters. See [[Current]].

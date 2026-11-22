@@ -90,3 +90,10 @@ Items to check when the manuscript .docx arrives. Pasted text may have lost form
 - [ ] **Intro note** (PFP-00336): probably italic or set apart.
 - [ ] **Contrast pair:** "Established by God…" and "Teachings advanced by Paul…" (PFP-00343, PFP-00344) follow "A clear distinction emerges here:" and may be a list, or have bold labels, in the original.
 - [ ] **Closing "Note:"** (PFP-00347) may be a footnote or endnote.
+
+## Chapter 13 (`13 Chapter 13`, PFP-00348 to PFP-00382)
+- [ ] **Title** was split over two lines in the paste ("The Erroneous Foundation of" / "“Justification by Faith”"). It's joined into one title here.
+- [ ] **Intro note** (PFP-00348): probably italic or set apart.
+- [ ] **Merged labels (probably bold sub-headings):** "1 John 3: Habitual, persistent lawlessness…" (PFP-00359), "1 John 1:9: Occasional…" (PFP-00360), "Paul's core logic" (PFP-00369), "The unified logic of the Old Testament, James and John" (PFP-00370), "The biblical qualifications for a true apostle" (PFP-00373), "The twelve foundations of the New Jerusalem" (PFP-00375), "Greek tense in 2 Timothy 1:15…" (PFP-00376), "Revelation 2:2: …" (PFP-00378).
+- [ ] **Sentences merged into list items:** the last item of the apostle-qualifications list (PFP-00374) ends with "Paul never satisfied any of these criteria…", and the last item of the 2 Timothy list (PFP-00377) ends with "The churches of Asia, including Ephesus, made a collective…". These are probably separate paragraphs after the lists.
+- [ ] **Possible italics:** *ʾemunah*, the Greek πίστις and ἀπεστράφησαν, and *Septuagint*.
