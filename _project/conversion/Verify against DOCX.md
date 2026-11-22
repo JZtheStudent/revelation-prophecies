@@ -97,3 +97,8 @@ Items to check when the manuscript .docx arrives. Pasted text may have lost form
 - [ ] **Merged labels (probably bold sub-headings):** "1 John 3: Habitual, persistent lawlessness…" (PFP-00359), "1 John 1:9: Occasional…" (PFP-00360), "Paul's core logic" (PFP-00369), "The unified logic of the Old Testament, James and John" (PFP-00370), "The biblical qualifications for a true apostle" (PFP-00373), "The twelve foundations of the New Jerusalem" (PFP-00375), "Greek tense in 2 Timothy 1:15…" (PFP-00376), "Revelation 2:2: …" (PFP-00378).
 - [ ] **Sentences merged into list items:** the last item of the apostle-qualifications list (PFP-00374) ends with "Paul never satisfied any of these criteria…", and the last item of the 2 Timothy list (PFP-00377) ends with "The churches of Asia, including Ephesus, made a collective…". These are probably separate paragraphs after the lists.
 - [ ] **Possible italics:** *ʾemunah*, the Greek πίστις and ἀπεστράφησαν, and *Septuagint*.
+
+## Chapter 14 (`14 Chapter 14`, PFP-00383 to PFP-00390)
+- [ ] **Intro note** (PFP-00383): probably italic or set apart.
+- [ ] **Embedded KJV quotations:** Matthew 7:21–23 (PFP-00387) and Matthew 7:24–27 (PFP-00388) are quoted inside paragraphs. They may be block quotes, or italic, in the original.
+- [ ] **Possible italics:** the Greek ἀνομία / *anomia*.
