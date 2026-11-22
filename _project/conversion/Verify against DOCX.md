@@ -16,3 +16,9 @@ Items to check when the manuscript .docx arrives. Pasted text may have lost form
 - [ ] **Heading levels:** I read I.–V. as sections and (A)–(K) as subsections of V, following the paste. (K) is about Christian doctrine rather than Revelation 17, so confirm it really sits under V in the original.
 - [ ] **"Criteria for the ten horns"** treated as a sub-heading above the criteria list (PFP-00055). Confirm.
 - [ ] **Lists:** four blocks were treated as lists, each with one ID: excluded regimes (PFP-00052), window conditions (PFP-00054), ten-horn criteria (PFP-00055), millennial kingdom (PFP-00069). Confirm they're lists in the original.
+
+## Chapter 1 (`01 Chapter 1`, PFP-00072 to PFP-00097)
+- [ ] **Heading:** "Chapter 1" and its subtitle were combined into one heading ("Chapter 1 — The Hebrew Roots Version…"). The subtitle is also the `title` property. Confirm the subtitle wording.
+- [ ] **Possibly merged lines:** PFP-00076, PFP-00078 and PFP-00082 each pair a "mainstream rendering" with the "HRV reading" in one line. These are probably two lines (or a small table) in the original.
+- [ ] **Possibly numbered points:** PFP-00085 to PFP-00087 (the three "a later translator would have no motive…" points) and PFP-00095 to PFP-00097 (the three exegetical rules) were kept as separate paragraphs, so each can be cited on its own. They may be a numbered list in the original. The four characteristics (PFP-00092) were treated as a list with one ID.
+- [ ] **Transliterated Greek:** "onoma" / "onomata" (PFP-00079) may be italic, or written in Greek script, in the original.
