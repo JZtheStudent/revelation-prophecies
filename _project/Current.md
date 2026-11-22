@@ -8,16 +8,17 @@ updated: 2026-11-22
 **v0** (D-027): convert the whole book into `passages/ed1/` Markdown with permanent passage IDs, then a reading website with good UX (every passage a linkable anchor). Audience: family (D-028). Claims/arguments/mind map = v1.
 
 ## In progress
-- Nothing actively in progress.
+- Pass 1 conversion, in reading order. Done: **Preface** (`passages/ed1/00a Preface.md`, PFP-00001 to PFP-00012, provisional: pasted, not yet checked against the DOCX). Next: Introduction.
 
 ## Blocked / waiting
-- **Manuscript**: Josh adds the .docx to `source/`, possibly chapter by chapter (D-029).
+- **Manuscript**: Josh is pasting chapters in chat (D-030). The .docx is still needed in `source/` to verify the pasted text and freeze ed1.
 
 ## Next steps
+- Next ID to assign: **PFP-00013**
 - [x] ~~1. Settle P-001~~ → decided as D-022 ([[Citations]]).
 - [ ] 2. Josh adds the manuscript .docx (or its first chapters) to `source/`.
 - [ ] 3. Freeze the edition: create `editions/ed1.md` with the SHA-256; tag the commit `ed1` ([[Editions]]).
-- [ ] 4. Pass 1 (mechanical): Preface, Introduction, Chapter 1 → `passages/ed1/` files with `^PFP-#####` IDs; images to `assets/`; spot-check tables, figures, captions and footnotes against the DOCX.
+- [ ] 4. Pass 1 (mechanical; Preface done, provisional): Preface, Introduction, Chapter 1 → `passages/ed1/` files with `^PFP-#####` IDs; images to `assets/`; spot-check tables, figures, captions and footnotes against the DOCX.
 - [ ] 5. Pass 2 (interpretive): claims, arguments and objections, in reading order; include one real historical-source citation if the material has one.
 - [ ] 6. Build the [[Validator]] (shared citation parser, usable by the website export).
 - [ ] 7. Citation tests (D-024), using fixtures in `_test/`:

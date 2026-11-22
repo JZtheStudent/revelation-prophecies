@@ -40,6 +40,7 @@ Append new decisions at the bottom; never delete. To change a decision, add a ne
 | D-027 | 2026-11-22 | **v0** = (1) convert the whole book into `passages/ed1/` Markdown with permanent passage IDs, (2) a reading website with good UX where every passage is a linkable anchor. Claims, arguments, objections and the mind map move to v1 | Gets something real in front of the family early; tests the conversion on the whole book; v1 links keep working | Josh; Claude agreed |
 | D-028 | 2026-11-22 | v0 audience is Josh's family. Public/private and hosting are deferred until v0 is done (intended to go public later) | Focus on content and reading UX first | Josh |
 | D-029 | 2026-11-22 | The manuscript may arrive chapter by chapter; conversion proceeds in reading order as chapters arrive | Matches how Josh will provide it | Josh |
+| D-030 | 2026-11-22 | Chapters may be pasted into chat instead of supplied as files. Pasted text is converted as-is and marked `status: provisional` in the chapter frontmatter, then checked word for word against the DOCX (and fixed) before ed1 is frozen | Lets conversion start before the manuscript file arrives without compromising verbatim fidelity | Josh; Claude added the provisional rule |
 
 ## Pending
 

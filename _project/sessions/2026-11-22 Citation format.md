@@ -19,6 +19,10 @@ participants: Josh, Claude
 - D-027 v0 = book → Markdown + reading website; argument model moves to v1
 - D-028 family audience; hosting deferred
 - D-029 manuscript may arrive chapter by chapter
+- D-030 pasted chapters are provisional until checked against the DOCX
+
+## Converted
+- Preface → `passages/ed1/00a Preface.md`, 12 paragraphs, PFP-00001 to PFP-00012 (provisional).
 
 ## Next
 Josh links GitHub to Claude, pushes once, and adds the first chapters. See [[Current]].
