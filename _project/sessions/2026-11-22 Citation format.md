@@ -38,6 +38,7 @@ participants: Josh, Claude
 - Chapter 12 → `passages/ed1/12 Chapter 12.md`, 12 paragraphs, PFP-00336 to PFP-00347 (provisional).
 - Chapter 13 → `passages/ed1/13 Chapter 13.md`, 35 blocks (8 lists), PFP-00348 to PFP-00382 (provisional).
 - Chapter 14 → `passages/ed1/14 Chapter 14.md`, 8 paragraphs, PFP-00383 to PFP-00390 (provisional).
+- Chapter 15 → `passages/ed1/15 Chapter 15.md`, 42 blocks (4 lists), PFP-00391 to PFP-00432 (provisional; section 6 looks truncated).
 
 ## Next
 Josh links GitHub to Claude, pushes once, and adds the first chapters. See [[Current]].

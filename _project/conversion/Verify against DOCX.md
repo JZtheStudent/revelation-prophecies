@@ -102,3 +102,9 @@ Items to check when the manuscript .docx arrives. Pasted text may have lost form
 - [ ] **Intro note** (PFP-00383): probably italic or set apart.
 - [ ] **Embedded KJV quotations:** Matthew 7:21–23 (PFP-00387) and Matthew 7:24–27 (PFP-00388) are quoted inside paragraphs. They may be block quotes, or italic, in the original.
 - [ ] **Possible italics:** the Greek ἀνομία / *anomia*.
+
+## Chapter 15 (`15 Chapter 15`, PFP-00391 to PFP-00432)
+- [ ] ⚠️ **Section 6 looks truncated:** "6. Exposing the Fatal Distortion of the Cross in Mainstream Churches" has a single sentence (PFP-00426), followed by a blank line, then section 7. The rest of section 6 may be missing from the paste. Check the DOCX.
+- [ ] **Intro note** (PFP-00391): probably italic or set apart.
+- [ ] **Uneven layer labels:** "Layer One: Passover Redemption…" is merged into the end of PFP-00411, while "Layer Two: Lifelong Obedience…" stands alone, so I made it a sub-heading. These are probably two parallel sub-headings in the original.
+- [ ] **List boundary:** PFP-00423 ("Grace does not release man from keeping the law…") was kept as a paragraph, and the three points after it became a list (PFP-00424). It may be the first of four list items in the original.
