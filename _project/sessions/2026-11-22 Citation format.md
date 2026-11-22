@@ -26,6 +26,7 @@ participants: Josh, Claude
 - Introduction → `passages/ed1/00b Introduction.md`, 59 blocks (55 paragraphs + 4 lists), PFP-00013 to PFP-00071 (provisional). Started [[Verify against DOCX]] for formatting the paste may have lost (one footnote is missing).
 - Chapter 1 → `passages/ed1/01 Chapter 1.md`, 26 blocks, PFP-00072 to PFP-00097 (provisional). Pilot pass 1 complete.
 - Chapter 2 → `passages/ed1/02 Chapter 2.md`, 37 blocks, PFP-00098 to PFP-00134 (provisional; Greek verse missing from the paste).
+- Chapter 3 → `passages/ed1/03 Chapter 3.md`, 15 blocks (6 scripture callouts + 9 paragraphs), PFP-00135 to PFP-00149 (provisional).
 
 ## Next
 Josh links GitHub to Claude, pushes once, and adds the first chapters. See [[Current]].

@@ -31,3 +31,8 @@ Items to check when the manuscript .docx arrives. Pasted text may have lost form
 - [ ] **Possible bold or italic:** the closing line "Grammar allows two readings; history fulfills only the deadline interpretation." (PFP-00118), and the verse lead-ins in PFP-00119 to PFP-00121 (e.g. "Matthew 10:23").
 - [ ] **Double space** after "in 67 CE," in PFP-00120. Kept verbatim; probably a typo in the original.
 - [ ] **Possibly numbered points:** PFP-00125 to PFP-00129 (section VIII) were kept as separate paragraphs, so each can be cited. They may be a numbered list in the original.
+
+## Chapter 3 (`03 Chapter 3`, PFP-00135 to PFP-00149)
+- [ ] **Scripture callouts:** the six quoted passages of Revelation 6 (PFP-00135, 138, 140, 143, 146, 148) are formatted as `[!scripture]` callouts, the first chapter to quote Scripture as separate blocks. The reference is kept in the text itself (e.g. "Revelation 6:1–2: …"). **Which Bible translation is quoted?** Record it in each callout's header once known.
+- [ ] **No section headings in the paste.** The original may have subheadings per seal (e.g. "The First Seal"), or bold verse references.
+- [ ] **References:** the reference lists at the end of PFP-00142 and PFP-00145 (e.g. "McCormick (2018); Procopius…") may be footnotes or styled differently in the original. Book titles (*History of the Wars*, *The Fate of Rome*) are probably italic.
