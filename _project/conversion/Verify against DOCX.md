@@ -73,3 +73,8 @@ Items to check when the manuscript .docx arrives. Pasted text may have lost form
 - [ ] **Three books-of-life categories** (PFP-00296 to PFP-00298) were kept as separate paragraphs so each can be cited. They may be a list in the original.
 - [ ] **Closing "Note:"** (PFP-00301) may be a footnote or endnote in the original. If so, move it under a `## Notes` heading, keeping its ID.
 - [ ] **Possible italics:** *apollymi*, *Book of Enoch*.
+
+## Chapter 10 (`10 Chapter 10`, PFP-00302 to PFP-00313)
+- [ ] **Intro note** (PFP-00302): probably italic or set apart.
+- [ ] **Mid-chapter "Note:"** (PFP-00308, on ἔξω in Rev 22:15) may be a footnote in the original. If so, move it under a `## Notes` heading, keeping its ID.
+- [ ] **Possible italics:** *exō*.
