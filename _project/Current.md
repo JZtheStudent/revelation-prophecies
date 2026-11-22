@@ -11,8 +11,6 @@ updated: 2026-11-22
 - Nothing actively in progress.
 
 ## Blocked / waiting
-- **GitHub access**: Josh links his GitHub account to Claude (claude.ai Settings → Connectors) so Claude can work in `JZtheStudent/revelation-prophecies` from the cloud.
-- **First push**: Josh runs `git push -u origin main` once from the vault folder in Terminal (remote `origin` is already set).
 - **Manuscript**: Josh adds the .docx to `source/`, possibly chapter by chapter (D-029).
 
 ## Next steps
@@ -32,6 +30,9 @@ updated: 2026-11-22
 
 ### Deferred to v1
 - Pass 2 (claims, arguments, objections), the reader-path demo ([[Success test]]) and the mind map. Steps 5 and 7 above can wait for v1 if v0 needs the time.
+
+## Setup notes
+- GitHub `JZtheStudent/revelation-prophecies` holds the full history (pushed 2026-11-22). Claude can push from the cloud. On the Mac, run `git pull` before editing so the vault picks up Claude's cloud commits.
 
 ## Open questions (not yet up for decision)
 - Website: Claude recommends a custom static site with the shared parser over Quartz; confirm when we start `site/`.
