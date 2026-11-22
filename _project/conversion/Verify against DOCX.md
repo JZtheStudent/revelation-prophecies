@@ -56,3 +56,9 @@ Items to check when the manuscript .docx arrives. Pasted text may have lost form
 - [ ] **Intro note** (PFP-00226): probably italic or set apart in the original.
 - [ ] **Uneven labels in § IV:** "The ten Catholic horn nations" is merged into its paragraph (PFP-00247), while "All Protestant denominations and Protestant nations" stands alone, so I made it a sub-heading over its list. These are probably two parallel sub-headings (or bold labels) in the original.
 - [ ] **Possible bold lead-ins:** "Final Verdict:" (PFP-00240), "Prophetic positioning:", "Final Destiny:", and the list labels in § II.1 ("Authority structure:", "Ceremonial system:", …).
+
+## Chapter 7 (`07 Chapter 7`, PFP-00255 to PFP-00267)
+- [ ] **No section headings** in the paste: 13 continuous paragraphs. The original may have sub-headings (e.g. for Daniel 7, John 1:1, John 10:30, Philippians 2).
+- [ ] **Hyphen style differs:** this chapter uses ordinary hyphens ("man-made", "anti-Trinitarian"), while earlier chapters use unbreakable hyphens ("man‑made"). Probably a difference in how the chapters were produced. Kept as pasted; relevant to P-002.
+- [ ] **Era style differs:** "AD 493, 534 and 538" here vs. "CE" elsewhere. Kept as pasted.
+- [ ] **Possible italics:** transliterated *yalad* and *monogenes* (PFP-00264), and the Greek θεός (PFP-00265).

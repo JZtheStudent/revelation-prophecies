@@ -17,6 +17,7 @@ updated: 2026-11-22
   - **Chapter 4**: `passages/ed1/04 Chapter 4.md`, PFP-00150 to PFP-00203
   - **Chapter 5**: `passages/ed1/05 Chapter 5.md`, PFP-00204 to PFP-00225
   - **Chapter 6**: `passages/ed1/06 Chapter 6.md`, PFP-00226 to PFP-00254
+  - **Chapter 7**: `passages/ed1/07 Chapter 7.md`, PFP-00255 to PFP-00267
   - Content observations (repetition, possible internal differences) go in [[Content notes]], separate from formatting checks.
   - Pilot pass 1 (Preface + Introduction + Chapter 1) is done. Josh chose to keep converting the whole book now and verify against the DOCX later (2026-11-22). Items to check are listed in [[Verify against DOCX]].
   - Ch. 1 § II is a substantial multi-premise argument, so the pilot material is enough to test argument records in v1 (D-003).
@@ -26,7 +27,7 @@ updated: 2026-11-22
 - **Manuscript**: Josh is pasting chapters in chat (D-030). The .docx is still needed in `source/` to verify the pasted text and freeze ed1.
 
 ## Next steps
-- Next ID to assign: **PFP-00255**
+- Next ID to assign: **PFP-00268**
 - [x] ~~1. Settle P-001~~ → decided as D-022 ([[Citations]]).
 - [ ] 2. Josh adds the manuscript .docx (or its first chapters) to `source/`.
 - [ ] 3. Freeze the edition: create `editions/ed1.md` with the SHA-256; tag the commit `ed1` ([[Editions]]).
