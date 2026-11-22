@@ -11,7 +11,7 @@ updated: 2026-11-22
 - Nothing actively in progress.
 
 ## Blocked / waiting
-- **GitHub access**: Josh links his GitHub account to Claude (claude.ai Settings → Connectors) so Claude can work in `MaterraX/revelation-prophecies` from the cloud.
+- **GitHub access**: Josh links his GitHub account to Claude (claude.ai Settings → Connectors) so Claude can work in `JZtheStudent/revelation-prophecies` from the cloud.
 - **First push**: Josh runs `git push -u origin main` once from the vault folder in Terminal (remote `origin` is already set).
 - **Manuscript**: Josh adds the .docx to `source/`, possibly chapter by chapter (D-029).
 

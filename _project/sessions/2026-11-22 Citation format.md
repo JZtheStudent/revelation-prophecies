@@ -15,7 +15,7 @@ participants: Josh, Claude
 - D-023 per-edition passage folders (supersedes part of D-007)
 - D-024 pilot citation tests
 - D-025 test fixtures only in `_test/`
-- D-026 GitHub remote `MaterraX/revelation-prophecies` (supersedes local-only)
+- D-026 GitHub remote `JZtheStudent/revelation-prophecies` (supersedes local-only)
 - D-027 v0 = book → Markdown + reading website; argument model moves to v1
 - D-028 family audience; hosting deferred
 - D-029 manuscript may arrive chapter by chapter
