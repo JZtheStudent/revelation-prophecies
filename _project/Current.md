@@ -8,13 +8,16 @@ updated: 2026-11-22
 **v0** (D-027): convert the whole book into `passages/ed1/` Markdown with permanent passage IDs, then a reading website with good UX (every passage a linkable anchor). Audience: family (D-028). Claims/arguments/mind map = v1.
 
 ## In progress
-- Pass 1 conversion, in reading order. Done: **Preface** (`passages/ed1/00a Preface.md`, PFP-00001 to PFP-00012, provisional: pasted, not yet checked against the DOCX). Next: Introduction.
+- Pass 1 conversion, in reading order. Done (both provisional: pasted, not yet checked against the DOCX):
+  - **Preface**: `passages/ed1/00a Preface.md`, PFP-00001 to PFP-00012
+  - **Introduction**: `passages/ed1/00b Introduction.md`, PFP-00013 to PFP-00071
+  - Next: Chapter 1. Items to check are listed in [[Verify against DOCX]].
 
 ## Blocked / waiting
 - **Manuscript**: Josh is pasting chapters in chat (D-030). The .docx is still needed in `source/` to verify the pasted text and freeze ed1.
 
 ## Next steps
-- Next ID to assign: **PFP-00013**
+- Next ID to assign: **PFP-00072**
 - [x] ~~1. Settle P-001~~ → decided as D-022 ([[Citations]]).
 - [ ] 2. Josh adds the manuscript .docx (or its first chapters) to `source/`.
 - [ ] 3. Freeze the edition: create `editions/ed1.md` with the SHA-256; tag the commit `ed1` ([[Editions]]).

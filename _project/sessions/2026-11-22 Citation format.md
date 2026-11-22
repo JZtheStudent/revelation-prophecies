@@ -23,6 +23,7 @@ participants: Josh, Claude
 
 ## Converted
 - Preface → `passages/ed1/00a Preface.md`, 12 paragraphs, PFP-00001 to PFP-00012 (provisional).
+- Introduction → `passages/ed1/00b Introduction.md`, 59 blocks (55 paragraphs + 4 lists), PFP-00013 to PFP-00071 (provisional). Started [[Verify against DOCX]] for formatting the paste may have lost (one footnote is missing).
 
 ## Next
 Josh links GitHub to Claude, pushes once, and adds the first chapters. See [[Current]].
