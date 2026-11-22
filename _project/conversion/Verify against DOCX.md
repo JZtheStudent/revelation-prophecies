@@ -45,3 +45,9 @@ Items to check when the manuscript .docx arrives. Pasted text may have lost form
 - [ ] **List or paragraphs?** PFP-00162 to PFP-00164 (1798 wound / 538–1798 span / 42 months = 1260 years) were kept as separate paragraphs. The first ends with ";", so they may be one list in the original.
 - [ ] **Possible bold lead-ins:** "Core marker:", "Interpretive note:", "Summary:", "Core conclusion:", "Final conclusion:", "Title background:", "Key distinction of ownership:", "Scope note:".
 - [ ] **Latin:** *Vicarius Christi* and *Vicarius Filii Dei* (PFP-00197) and the *Donation of Constantine* (PFP-00195) are probably italic.
+
+## Chapter 5 (`05 Chapter 5`, PFP-00204 to PFP-00225)
+- [ ] **Intro note** (PFP-00204): the parenthetical "(These are independent interpretive reflections…)" is probably italic or set apart in the original.
+- [ ] **Possibly merged labels:** the three dimensions (PFP-00206 "Spiritual dimension:…", PFP-00208 "Political‑institutional dimension:…", PFP-00211 "Geographical dimension:…") each start with a label that's probably a sub-heading or bold.
+- [ ] **Embedded scripture quotes:** PFP-00215 (Rev 17:17) and PFP-00217 (Rev 17:16) run a label, a quoted verse and commentary together. In the original these are probably separate lines, possibly a block quote. PFP-00217 also contains a ①②③ breakdown that may be a list.
+- [ ] **Garment symbols:** PFP-00220 to PFP-00222 (Purple / Scarlet / Gold…) were kept as separate paragraphs. They may be a list with bold labels.

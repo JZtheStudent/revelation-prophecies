@@ -13,4 +13,6 @@ Observations about the **content** noticed during conversion: repetition across 
 ## Possible internal differences (for the author to confirm)
 - **When the Fifth Head received its wound:** Introduction PFP-00047 and Chapter 4 PFP-00162 date the deadly wound to 1798 and the final loss of territory to 1870. Chapter 4 PFP-00171 says the Papal States "lost secular territory and received its wound in 1870". Possibly just compressed wording.
 - **Ten-horn criteria:** Introduction PFP-00055 lists four criteria; Chapter 4 PFP-00173 lists five, adding "Catholicism as the dominant faith".
+- **Chapter reference:** Chapter 5's opening note (PFP-00204) says it follows the framework "established in Chapter 5". It probably means Chapter 4, which sets out the seven heads and ten horns.
+- **Bible translation varies:** Chapter 3 quotes Revelation in modern English ("Come!"), while Chapter 5 (PFP-00215, PFP-00217) quotes it in KJV wording ("thou sawest", "whore"). This may be deliberate. Note it for the scripture callouts' translation labels.
 - **Version name:** "Hebrew Roots Version" (most places) vs. "Hebrew Root Version" (Chapter 4 § I.8 heading).
