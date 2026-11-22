@@ -22,3 +22,12 @@ Items to check when the manuscript .docx arrives. Pasted text may have lost form
 - [ ] **Possibly merged lines:** PFP-00076, PFP-00078 and PFP-00082 each pair a "mainstream rendering" with the "HRV reading" in one line. These are probably two lines (or a small table) in the original.
 - [ ] **Possibly numbered points:** PFP-00085 to PFP-00087 (the three "a later translator would have no motive…" points) and PFP-00095 to PFP-00097 (the three exegetical rules) were kept as separate paragraphs, so each can be cited on its own. They may be a numbered list in the original. The four characteristics (PFP-00092) were treated as a list with one ID.
 - [ ] **Transliterated Greek:** "onoma" / "onomata" (PFP-00079) may be italic, or written in Greek script, in the original.
+
+## Chapter 2 (`02 Chapter 2`, PFP-00098 to PFP-00134)
+- [ ] ⚠️ **Missing Greek text:** "Greek original:" (PFP-00100) is followed by an empty line in the paste. The Greek verse of Rev 11:2 is missing, probably an image or a special font. Recover it from the DOCX and add it as a `[!scripture]` callout with its own ID.
+- [ ] **Second subtitle:** "Grammatical Dual Reading Examination, …" (PFP-00098) was treated as a paragraph. It may be a subtitle in the original.
+- [ ] **Possibly merged lines:** PFP-00103, PFP-00104, PFP-00106 and PFP-00107 (label + reading + explanation), and PFP-00115 (start date / lunar month / 42 × 29.524 / end date, which looks like 4 lines run together).
+- [ ] **Emoji:** "✅" in PFP-00116. Confirm it's in the original (it may be an artifact of the paste or a draft).
+- [ ] **Possible bold or italic:** the closing line "Grammar allows two readings; history fulfills only the deadline interpretation." (PFP-00118), and the verse lead-ins in PFP-00119 to PFP-00121 (e.g. "Matthew 10:23").
+- [ ] **Double space** after "in 67 CE," in PFP-00120. Kept verbatim; probably a typo in the original.
+- [ ] **Possibly numbered points:** PFP-00125 to PFP-00129 (section VIII) were kept as separate paragraphs, so each can be cited. They may be a numbered list in the original.
