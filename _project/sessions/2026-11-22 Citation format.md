@@ -40,5 +40,9 @@ participants: Josh, Claude
 - Chapter 14 → `passages/ed1/14 Chapter 14.md`, 8 paragraphs, PFP-00383 to PFP-00390 (provisional).
 - Chapter 15 → `passages/ed1/15 Chapter 15.md`, 42 blocks (4 lists), PFP-00391 to PFP-00432 (provisional; section 6 looks truncated).
 
+## Outcome
+- Whole book converted: 17 files, 432 IDs (PFP-00001 to PFP-00432), all provisional.
+- Chapter 14 was pasted twice; the second paste was identical and ignored.
+
 ## Next
-Josh links GitHub to Claude, pushes once, and adds the first chapters. See [[Current]].
+Josh provides the DOCX in a new session; verify, freeze ed1, then build the site. See [[Current]].

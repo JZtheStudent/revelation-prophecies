@@ -5,53 +5,33 @@ updated: 2026-11-22
 # Current
 
 ## Phase
-**v0** (D-027): convert the whole book into `passages/ed1/` Markdown with permanent passage IDs, then a reading website with good UX (every passage a linkable anchor). Audience: family (D-028). Claims/arguments/mind map = v1.
+**v0** (D-027): book → Markdown is **done (provisional)**; next is verification against the DOCX, then the reading website.
 
 ## In progress
-- Pass 1 conversion, in reading order. Done (both provisional: pasted, not yet checked against the DOCX):
-  - **Preface**: `passages/ed1/00a Preface.md`, PFP-00001 to PFP-00012
-  - **Introduction**: `passages/ed1/00b Introduction.md`, PFP-00013 to PFP-00071
-  - **Chapter 1**: `passages/ed1/01 Chapter 1.md`, PFP-00072 to PFP-00097
-  - **Chapter 2**: `passages/ed1/02 Chapter 2.md`, PFP-00098 to PFP-00134 (⚠️ Greek text of Rev 11:2 missing from the paste)
-  - **Chapter 3**: `passages/ed1/03 Chapter 3.md`, PFP-00135 to PFP-00149
-  - **Chapter 4**: `passages/ed1/04 Chapter 4.md`, PFP-00150 to PFP-00203
-  - **Chapter 5**: `passages/ed1/05 Chapter 5.md`, PFP-00204 to PFP-00225
-  - **Chapter 6**: `passages/ed1/06 Chapter 6.md`, PFP-00226 to PFP-00254
-  - **Chapter 7**: `passages/ed1/07 Chapter 7.md`, PFP-00255 to PFP-00267
-  - **Chapter 8**: `passages/ed1/08 Chapter 8.md`, PFP-00268 to PFP-00288
-  - **Chapter 9**: `passages/ed1/09 Chapter 9.md`, PFP-00289 to PFP-00301
-  - **Chapter 10**: `passages/ed1/10 Chapter 10.md`, PFP-00302 to PFP-00313
-  - **Chapter 11**: `passages/ed1/11 Chapter 11.md`, PFP-00314 to PFP-00335
-  - **Chapter 12**: `passages/ed1/12 Chapter 12.md`, PFP-00336 to PFP-00347
-  - **Chapter 13**: `passages/ed1/13 Chapter 13.md`, PFP-00348 to PFP-00382
-  - **Chapter 14**: `passages/ed1/14 Chapter 14.md`, PFP-00383 to PFP-00390
-  - **Chapter 15**: `passages/ed1/15 Chapter 15.md`, PFP-00391 to PFP-00432 (⚠️ section 6 looks truncated in the paste)
-  - Content observations (repetition, possible internal differences) go in [[Content notes]], separate from formatting checks.
-  - Pilot pass 1 (Preface + Introduction + Chapter 1) is done. Josh chose to keep converting the whole book now and verify against the DOCX later (2026-11-22). Items to check are listed in [[Verify against DOCX]].
-  - Ch. 1 § II is a substantial multi-premise argument, so the pilot material is enough to test argument records in v1 (D-003).
+- Nothing actively in progress. Last session ended after converting the whole book.
+
+## Conversion status
+- **Whole book converted** (pasted in chat, provisional): 17 files in `passages/ed1/` (Preface, Introduction, Chapters 1–15), **432 passage IDs, PFP-00001 to PFP-00432**, all unique and contiguous.
+- Formatting items to check: [[Verify against DOCX]]. ⚠️ Highest priority: the missing Greek text of Rev 11:2 (Ch. 2), the truncated section 6 (Ch. 15), and the missing Isaiah 9:6 footnote (Intro).
+- Content observations for the author: [[Content notes]] (repetition, possible internal differences, outdated chapter cross-references).
 
 ## Blocked / waiting
-- **P-002** (character normalization for search and quote matching) awaits Josh's decision. It doesn't block conversion.
-- **Manuscript**: Josh is pasting chapters in chat (D-030). The .docx is still needed in `source/` to verify the pasted text and freeze ed1.
+- **Manuscript .docx**: needed to verify the pasted text and freeze ed1. Josh will provide it next session.
+- **P-002** (character normalization for search and quote matching): awaits Josh's decision.
 
 ## Next steps
 - Next ID to assign: **PFP-00433**
-- [x] ~~1. Settle P-001~~ → decided as D-022 ([[Citations]]).
-- [ ] 2. Josh adds the manuscript .docx (or its first chapters) to `source/`.
-- [ ] 3. Freeze the edition: create `editions/ed1.md` with the SHA-256; tag the commit `ed1` ([[Editions]]).
-- [ ] 4. Pass 1 (mechanical; Preface done, provisional): Preface, Introduction, Chapter 1 → `passages/ed1/` files with `^PFP-#####` IDs; images to `assets/`; spot-check tables, figures, captions and footnotes against the DOCX.
-- [ ] 5. Pass 2 (interpretive): claims, arguments and objections, in reading order; include one real historical-source citation if the material has one.
-- [ ] 6. Build the [[Validator]] (shared citation parser, usable by the website export).
-- [ ] 7. Citation tests (D-024), using fixtures in `_test/`:
-  - [ ] same passage ID in a synthetic ed2 with different wording; both links open the intended text
-  - [ ] an `@ed2` citation deliberately pointed at the ed1 file → validator catches it
-  - [ ] move a cited block → repaired link still opens the correct edition
-  - [ ] backlinks and passage links work in Obsidian
-- [ ] 8. v0 website: a static site in `site/` using the shared parser. Table of contents, chapter pages, per-passage anchors, footnotes, search, mobile-friendly.
-- [ ] 9. Continue converting the remaining chapters in reading order.
+- [x] ~~Settle P-001~~ → D-022.
+- [x] ~~Convert the whole book to `passages/ed1/`~~ (provisional; pasted 2026-11-22).
+- [ ] 1. Josh provides the manuscript .docx; put it in `source/`.
+- [ ] 2. Verify every passage file against the DOCX with a script (text diff, ignoring formatting), then work through [[Verify against DOCX]]: missing text, merged lines, headings, lists, footnotes, italics/bold. Fix extraction errors; new blocks get new IDs (never renumber).
+- [ ] 3. Freeze ed1: `editions/ed1.md` with the DOCX SHA-256; remove `status: provisional`; tag the commit `ed1`.
+- [ ] 4. Decide P-002, then build the [[Validator]] (shared parser).
+- [ ] 5. v0 website in `site/`: table of contents, chapter pages, per-passage anchors, footnotes, search, mobile-friendly. Confirm custom static site vs. Quartz first.
+- [ ] 6. Share [[Content notes]] with the author.
 
 ### Deferred to v1
-- Pass 2 (claims, arguments, objections), the reader-path demo ([[Success test]]) and the mind map. Steps 5 and 7 above can wait for v1 if v0 needs the time.
+- Claims, arguments, objections, citation tests (D-024), the reader-path demo ([[Success test]]) and the mind map.
 
 ## Setup notes
 - GitHub `JZtheStudent/revelation-prophecies` holds the full history (pushed 2026-11-22). Claude can push from the cloud. On the Mac, run `git pull` before editing so the vault picks up Claude's cloud commits.
@@ -62,4 +42,4 @@ updated: 2026-11-22
 - Off-machine backup: none yet (Time Machine as stopgap).
 
 ## Last session
-[[2026-11-22 Citation format]]
+[[2026-11-22 Citation format]] (covers citation format, GitHub setup, v0 scope, and converting the whole book)
