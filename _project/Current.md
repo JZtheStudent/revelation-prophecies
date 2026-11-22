@@ -12,10 +12,11 @@ updated: 2026-11-22
   - **Preface**: `passages/ed1/00a Preface.md`, PFP-00001 to PFP-00012
   - **Introduction**: `passages/ed1/00b Introduction.md`, PFP-00013 to PFP-00071
   - **Chapter 1**: `passages/ed1/01 Chapter 1.md`, PFP-00072 to PFP-00097
-  - Pilot pass 1 (Preface + Introduction + Chapter 1) is done. Items to check are listed in [[Verify against DOCX]].
+  - Pilot pass 1 (Preface + Introduction + Chapter 1) is done. Josh chose to keep converting the whole book now and verify against the DOCX later (2026-11-22). Items to check are listed in [[Verify against DOCX]].
   - Ch. 1 § II is a substantial multi-premise argument, so the pilot material is enough to test argument records in v1 (D-003).
 
 ## Blocked / waiting
+- **P-002** (character normalization for search and quote matching) awaits Josh's decision. It doesn't block conversion.
 - **Manuscript**: Josh is pasting chapters in chat (D-030). The .docx is still needed in `source/` to verify the pasted text and freeze ed1.
 
 ## Next steps

@@ -47,3 +47,4 @@ Append new decisions at the bottom; never delete. To change a decision, add a ne
 | ID | Opened | Question | Current proposal | Waiting on |
 |---|---|---|---|---|
 | ~~P-001~~ | 2026-11-20 | ~~Citation format~~ | Resolved 2026-11-22 by D-022 | — |
+| P-002 | 2026-11-22 | Should search and quote matching treat look-alike characters as equal (U+2011 vs `-`, curly vs straight quotes, dash spacing), while stored text stays verbatim? | Yes: normalize only for matching; wording, other punctuation and case still exact. Would amend D-022 | Josh |
